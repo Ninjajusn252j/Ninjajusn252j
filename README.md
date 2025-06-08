@@ -1,16 +1,28 @@
-## Hi there 👋
+# ¡Hola, soy DarkEclipse252j! 👋
 
-<!--
-**Ninjajusn252j/Ninjajusn252j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub!
 
-Here are some ideas to get you started:
+## 👨‍💻 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Soy programador apasionado por la tecnología, siempre buscando aprender y mejorar.
+- 🐍 Mi especialidad es Python, pero también tengo experiencia en desarrollo web y lua.
+- 🚀 Me entusiasma participar en proyectos innovadores y compartir conocimiento con la comunidad.
+
+## 🛠️ Tecnologías que manejo
+
+- **Lenguajes:** Python, HTML, CSS, JavaScript, Lua
+- **Web:** Desarrollo Frontend y Backend
+- **Herramientas:** Git, GitHub, netlify
+- 
+
+## 📈 Estadísticas
+
+![Ninjajusn252j's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ninjajusn252j&show_icons=true&theme=radical)
+
+## ✨ Frase favorita
+
+*"El código es como el humor. Cuando tienes que explicarlo, es malo."*
+
+---
+
+¡Gracias por visitar mi perfil! Siéntete libre de explorar mis repositorios y conectar conmigo.
